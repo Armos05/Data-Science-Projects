@@ -1,0 +1,2 @@
+This file contains python code for scrapping news articles using beautful soup and then applying machine learning algorithms
+ to build a  persolnaized news recommender system based on click stream data (Gaussian Mixture Model)
